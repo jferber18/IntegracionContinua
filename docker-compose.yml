@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  integracioncontinua:
+    image: ${DOCKER_REGISTRY-}integracioncontinua
+    build:
+      context: .
+      dockerfile: IntegracionContinua/Dockerfile

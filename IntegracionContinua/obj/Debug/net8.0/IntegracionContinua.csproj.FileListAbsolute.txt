@@ -30,3 +30,36 @@ D:\appPrueba\IntegracionContinua\IntegracionContinua\obj\Debug\net8.0\refint\Int
 D:\appPrueba\IntegracionContinua\IntegracionContinua\obj\Debug\net8.0\IntegracionContinua.pdb
 D:\appPrueba\IntegracionContinua\IntegracionContinua\obj\Debug\net8.0\IntegracionContinua.genruntimeconfig.cache
 D:\appPrueba\IntegracionContinua\IntegracionContinua\obj\Debug\net8.0\ref\IntegracionContinua.dll
+D:\Integracion Continua\IntegracionContinua\bin\Debug\net8.0\appsettings.Development.json
+D:\Integracion Continua\IntegracionContinua\bin\Debug\net8.0\appsettings.json
+D:\Integracion Continua\IntegracionContinua\bin\Debug\net8.0\IntegracionContinua.exe
+D:\Integracion Continua\IntegracionContinua\bin\Debug\net8.0\IntegracionContinua.deps.json
+D:\Integracion Continua\IntegracionContinua\bin\Debug\net8.0\IntegracionContinua.runtimeconfig.json
+D:\Integracion Continua\IntegracionContinua\bin\Debug\net8.0\IntegracionContinua.dll
+D:\Integracion Continua\IntegracionContinua\bin\Debug\net8.0\IntegracionContinua.pdb
+D:\Integracion Continua\IntegracionContinua\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Integracion Continua\IntegracionContinua\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Integracion Continua\IntegracionContinua\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Integracion Continua\IntegracionContinua\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\IntegracionContinua.csproj.AssemblyReference.cache
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\IntegracionContinua.GeneratedMSBuildEditorConfig.editorconfig
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\IntegracionContinua.AssemblyInfoInputs.cache
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\IntegracionContinua.AssemblyInfo.cs
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\IntegracionContinua.csproj.CoreCompileInputs.cache
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\IntegracionContinua.MvcApplicationPartsAssemblyInfo.cs
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\IntegracionContinua.MvcApplicationPartsAssemblyInfo.cache
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\IntegracionContinua.sourcelink.json
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\staticwebassets.build.json
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\staticwebassets.development.json
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\staticwebassets\msbuild.IntegracionContinua.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\staticwebassets\msbuild.build.IntegracionContinua.props
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IntegracionContinua.props
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IntegracionContinua.props
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\scopedcss\bundle\IntegracionContinua.styles.css
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\IntegracionContinua.csproj.CopyComplete
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\IntegracionContinua.dll
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\refint\IntegracionContinua.dll
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\IntegracionContinua.pdb
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\IntegracionContinua.genruntimeconfig.cache
+D:\Integracion Continua\IntegracionContinua\obj\Debug\net8.0\ref\IntegracionContinua.dll

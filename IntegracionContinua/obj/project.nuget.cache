@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "IcGyU4NukQP5qybfg7iGl6W1u+t6C3VHsYEFLoHrPMoT9CR6MqZloUvEdqQW1rkiEDA9m1pEe0S4YPDarE4f/A==",
+  "dgSpecHash": "6fIxgVzLpBiJzbhjzRQCrDkNtSfhQyGJ23HwMi0sD7vjc9A+EwU1W/xwlCP5BCrGbE9JLI4GiWCRR46vJiukog==",
   "success": true,
   "projectFilePath": "D:\\Integracion Continua\\IntegracionContinua\\IntegracionContinua.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JOSUE\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\JOSUE\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\JOSUE\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\JOSUE\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\JOSUE\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\JOSUE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
