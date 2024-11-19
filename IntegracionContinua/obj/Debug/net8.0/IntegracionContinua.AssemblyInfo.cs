@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntegracionContinua")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65e7203a215ad925eeec6c860bc0a6cbaefb5a3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntegracionContinua")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntegracionContinua")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
